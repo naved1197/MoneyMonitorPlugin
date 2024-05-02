@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="MyDatePickerStyle" parent="ThemeOverlay.AppCompat.Dialog">-->
+<!--        &lt;!&ndash;header background&ndash;&gt;-->
+<!--        <item name="colorAccent">#009933</item>-->
+<!--        &lt;!&ndash;header textcolor&ndash;&gt;-->
+<!--        <item name="android:textColorPrimaryInverse">#ff9900</item>-->
+<!--        &lt;!&ndash;body background&ndash;&gt;-->
+<!--        <item name="android:windowBackground">#000099</item>-->
+<!--        &lt;!&ndash;selected day&ndash;&gt;-->
+<!--        <item name="android:colorControlActivated">#ff8000</item>-->
+<!--        &lt;!&ndash;days of the month&ndash;&gt;-->
+<!--        <item name="android:textColorPrimary">#ffff00</item>-->
+<!--        &lt;!&ndash;days of the week&ndash;&gt;-->
+<!--        <item name="android:textColorSecondary">#ff0066</item>-->
+<!--        &lt;!&ndash;cancel&ok&ndash;&gt;-->
+<!--        <item name="android:textColor">#00ffff</item>-->
+<!--        <item name="android:background">#333132</item>-->
+<!--        <item name="android:colorPrimary">#F8F7F7</item>-->
+<!--        <item name="colorOnPrimary">#F8F7F7</item>-->
+<!--    </style>-->
+    <style name="DemoTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ff9900</item>
+        <item name="android:statusBarColor">#ff9900</item>
+        <!-- Defining that new color in ColorPrimaryDark -->
+        <item name="colorPrimaryDark">#ff0066</item>
+        <item name="colorAccent">#ff8000</item>
+    </style>
+</resources>
